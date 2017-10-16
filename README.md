@@ -14,6 +14,7 @@ Make sure you have Cargo installed, then it's a matter of
 
 To run the optimised version, and time it: 
 ```sh
-> cargo build
+> cargo build --release
 > time ./target/release/phone-nr ./src/assets/phone_data_65535.txt
 ```
+Add appropriate .exe and stuff for Windows.
