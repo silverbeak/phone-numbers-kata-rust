@@ -1,0 +1,6 @@
+[package]
+name = "phone-nr"
+version = "0.1.0"
+authors = ["Kristofer Jarl <kristofer.jarl@pagero.com>"]
+
+[dependencies]
